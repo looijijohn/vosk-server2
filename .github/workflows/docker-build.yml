@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout kaldi-en repository
+      - name: Checkout kaldi-en repository2
         uses: actions/checkout@v3
 
       - name: Login to GitHub Container Registry
